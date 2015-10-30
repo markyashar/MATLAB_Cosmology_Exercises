@@ -1,0 +1,25 @@
+This table displays particle mass and equilibrium fallout temperature (both in MeV)
+ (Equilibrium fallout is defined when R = 1, see main homework sheet for details)
+
+			Mass (MeV) 			 T_eqm (MeV)
+
+			    3				     N/A
+
+			    6				   5.88621
+
+			    9				   3.29921
+
+			   12				   3.19992
+
+			   15				   3.32447
+
+			   18				   3.51397
+
+			   21				   3.72849
+
+			   24				   3.95364
+
+			   27				   4.18321
+
+			   30				   4.41419
+

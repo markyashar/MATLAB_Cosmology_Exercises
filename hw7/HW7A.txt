@@ -1,0 +1,56 @@
+		   HW7.4 and HW7.5
+
+ As can be seen from the plot of deltaH vs. time with m = 1e16,
+ deltaH is on the order of .5, which is about 10^5 than the
+ realistic value of 10^-5.
+
+ In HW7.5, we changed the value of mass unitl deltaH was near
+ 10^-5. From the plot of deltaH with mass m = 5e11, deltaH is
+ on the order of 10^-5, which agrees with the realistic value.
+ Thus, we used m = 5e11 for the rest of the problem.
+
+
+
+			HW7.6
+
+i) reheat time				6.00e-11 GeV^-1
+ii) rophi reheat			2.04e62 GeV^4
+iii) reheat scale factor		6.230e-29
+iv) reheat temperature			3.73E+15eV
+
+v)
+
+Comoving length				Comoving length
+today (in Mpc)				at a = areheat (in Mpc)
+
+1000					6.230e-26
+100					6.230e-27
+1					6.230e-29
+
+
+Comoving length				Scale factor
+today (in Mpc)				at "re-entry"
+
+1000					1.336e-02
+100					2.414e-04
+1					1.634e-06
+
+
+
+
+			HW7.7
+
+Comoving length				Scale factor
+today (in Mpc)				at Hubble exit
+
+1000					1.412e-54
+100					1.363e-53
+1					1.165e-51
+
+
+Comoving length				DeltaH
+today (in Mpc)				at "re-entry"
+
+1000					1.023e-05
+100					1.005e-05
+1					9.699e-06
